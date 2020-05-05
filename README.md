@@ -1,1 +1,1 @@
-# PafPractical
+# PafPractical for hospital management
