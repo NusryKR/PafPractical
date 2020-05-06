@@ -2,5 +2,5 @@
 
 Requirements:
 
-Using Apache Tomcat 9.0
-Jdk version 11.8
+Apache Tomcat 9.0
+Jdk version 1.8
